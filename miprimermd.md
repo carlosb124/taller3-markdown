@@ -8,7 +8,7 @@ Este es un párrafo de ejemplo con **palabras en negrita**, *palabras en cursiva
 def saludo():
     print("Hola, esto es un ejemplo de código en Python")
 
-
+```
 ## 4️ Lista ordenada
 
 ```markdown
